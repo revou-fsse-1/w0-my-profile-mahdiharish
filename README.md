@@ -24,3 +24,9 @@ I am expecting to learn new skills and experience here, and planning to do caree
 | FreeCodeCamp | <https://freecodecamp.org>  | Learn coding in general                        |
 | GitHub       | <https://github.com>        | To search and learn about code                 |
 | Twitter      | <https://twitter.com>       | Finding new informations                       |
+
+## Hobby
+
+1. Playing PC games (DOTA 2, Genshin Impact, Overwatch 2)
+2. Doing sports (jogging and badminton)
+3. Learning new things, mainly software engineering for now
