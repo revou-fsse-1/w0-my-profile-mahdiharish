@@ -30,3 +30,46 @@ I am expecting to learn new skills and experience here, and planning to do caree
 1. Playing PC games (DOTA 2, Genshin Impact, Overwatch 2)
 2. Doing sports (jogging and badminton)
 3. Learning new things, mainly software engineering for now
+
+## Code Examples
+
+### MARKDOWN
+
+```markdown
+# Halo Dunia
+
+Nama saya adalah Mahdi Harish Rahman.
+```
+
+### HTML
+
+```<html>
+<main class=intro>
+    <h2> Halo Dunia</h2>
+    <p>Nama saya adalah Mahdi Harish Rahman.</p>
+</main>
+```
+
+### CSS
+
+```css
+.intro {
+    background-color: #ffffff;
+    font-color: ##3881c2;
+    font-size: 1.5rem;
+}
+```
+
+### JavaScript
+
+```js
+const text = "Halo Dunia";
+console.log(text);
+```
+
+### TypeScript
+
+```js
+const text: string = "Halo Dunia";
+console.log(text);
+```
