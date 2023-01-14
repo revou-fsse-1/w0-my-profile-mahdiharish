@@ -43,11 +43,13 @@ Nama saya adalah Mahdi Harish Rahman.
 
 ### HTML
 
-```<html>
+```html
+<html>
 <main class=intro>
-    <h2> Halo Dunia</h2>
+    <h2>Halo Dunia</h2>
     <p>Nama saya adalah Mahdi Harish Rahman.</p>
 </main>
+</html>
 ```
 
 ### CSS
